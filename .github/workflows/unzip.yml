@@ -14,5 +14,5 @@ jobs:
 
       - name: Unzip file
         run: |
-          unzip -o file.zip -d extracted/
+          unzip -o 22213.zip -d extracted/
           ls extracted/
